@@ -1440,7 +1440,7 @@
 // entity 3
 {
 "classname" "info_player_deathmatch"
-"origin" "512 208 24"
+"origin" "512 352 24"
 "angle" "270"
 }
 // entity 4
@@ -1476,66 +1476,16 @@
 // entity 9
 {
 "classname" "info_player_start"
-"origin" "400 -432 24"
+"origin" "128 -112 24"
 "angle" "270"
 }
 // entity 10
 {
 "classname" "item_health"
-"origin" "1952 1440 0"
+"origin" "2016 1504 0"
 }
 // entity 11
 {
 "classname" "item_shells"
-"origin" "1952 1344 0"
-}
-// entity 12
-{
-"classname" "item_health"
-"origin" "80 -256 0"
-}
-// entity 13
-{
-"classname" "item_shells"
-"origin" "80 -160 0"
-}
-// entity 14
-{
-"classname" "item_health"
-"origin" "1184 -2000 -656"
-}
-// entity 15
-{
-"classname" "item_health"
-"origin" "1088 -2000 -656"
-}
-// entity 16
-{
-"classname" "item_shells"
-"origin" "-1120 -2128 -656"
-}
-// entity 17
-{
-"classname" "item_health"
-"origin" "-1088 1056 0"
-}
-// entity 18
-{
-"classname" "item_health"
-"origin" "-1088 960 0"
-}
-// entity 19
-{
-"classname" "weapon_nailgun"
-"origin" "512 528 0"
-}
-// entity 20
-{
-"classname" "weapon_supershotgun"
-"origin" "1600 1024 0"
-}
-// entity 21
-{
-"classname" "weapon_grenadelauncher"
-"origin" "512 -2352 -656"
+"origin" "2016 1472 0"
 }
