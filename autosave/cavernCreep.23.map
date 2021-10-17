@@ -3373,10 +3373,9 @@
 // entity 44
 {
 "classname" "path_corner"
-"origin" "1352 632 -152"
+"origin" "1352 632 -120"
 "targetname" "waterroom_left2_path1"
 "target" "waterroom_left2_path2"
-"wait" "2"
 }
 // entity 45
 {
@@ -3384,7 +3383,6 @@
 "origin" "1352 632 8"
 "targetname" "waterroom_left2_path2"
 "target" "waterroom_left2_path1"
-"wait" "2"
 }
 // entity 46
 {
@@ -3393,14 +3391,12 @@
 "targetname" "waterroom_right_path2"
 "target" "waterroom_right_path1"
 "angle" "270"
-"wait" "2"
 }
 // entity 47
 {
 "classname" "path_corner"
-"origin" "1272 1304 -152"
+"origin" "1272 1304 -120"
 "targetname" "waterroom_right_path1"
 "target" "waterroom_right_path2"
 "angle" "270"
-"wait" "2"
 }
